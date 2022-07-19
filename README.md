@@ -1,9 +1,9 @@
 # Data-Analysis-Portfolio
-Hello, i am Queen Burutolu, this is a portfolio of few of my projects,
-Using Python i performed data cleaning, manipulation and visualization on various Datasets, cleaned up messy data, merged, joined and grouped these various dataset.
+Welcome to my Data Analytics Portfolio, i am Queen, This code respository contains projects of codes i've written with Python,
+using Python i performed data cleaning, manipulation and visualization on various Datasets, cleaned up messy data, merged, joined and grouped these various dataset.
 I performed these analysis solving possible problems each company could go through,
 and created different visualizations making data easy and more interactive,
-Created in-depth anaylsis and visualization using SQL
+Feel free to take a look and reach out if you have questions.
 
 ![output_25_1](https://user-images.githubusercontent.com/109351896/179839945-aca5dbfc-7ecc-486d-96d6-10fee451f0be.png) Restaurant-analysis showing famous restaurant 
 
