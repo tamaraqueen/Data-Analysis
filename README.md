@@ -5,17 +5,23 @@ I performed these analysis solving possible problems each company could go throu
 and created different visualizations making data easy and more interactive,
 Feel free to take a look and reach out if you have questions.
 
-In-depth Analysis of Zomato 
+SALES DATA ANALYSIS 
 
--Data Preparation & Cleaning
+Data Preparation, Analyzed Monthly Sales, Analyzed Maximum Order & Hour Analysis, Analyzed Most Sold Products
 
--Analyzed Most Famous Restaurant
+ZOMATO ANALYSIS
 
--Analyzed Insights from Restaurant Pattern
+Analysing most Famous Restaurants, Price of Restaurants in Bengalore, Analysing Insights from Restaurant Pattern, Spatial Analysis, Most Popular Cuisines.
 
--Performed Spatial Analysis
+STOCK MARKET
 
--Analyzed most Popular Cuisines
+Analyzing closing price of stocks & Volume trading, Daily returns, Risk analysis
+
+YOUTUBE ANALYSIS
+
+Collected entire data of youtube, performed Text Data Analysis; Sentiment Analysis, Emoji Analysis, Category, trending videos and Youtube Engagements.
+                                                  
+                                                                                                   
 
 ![output_25_1](https://user-images.githubusercontent.com/109351896/179839945-aca5dbfc-7ecc-486d-96d6-10fee451f0be.png) Restaurant-analysis showing famous restaurant 
 
