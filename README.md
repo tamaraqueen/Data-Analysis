@@ -13,11 +13,11 @@ Data Preparation, Analyzed Monthly Sales, Analyzed Maximum Order & Hour Analysis
 
 ZOMATO ANALYSIS
 
-Analysing most Famous Restaurants, Price of Restaurants in Bengalore, Analysing Insights from Restaurant Pattern, Spatial Analysis, Most Popular Cuisines.
+Analyzed most Famous Restaurants, Price of Restaurants in Bengalore, Analyzed Insights from Restaurant Pattern, Spatial Analysis, Most Popular Cuisines.
 
 STOCK MARKET
 
-Analyzing closing price of stocks & Volume trading, Daily returns, Risk analysis
+Analyzed closing price of stocks & Volume trading, Daily returns, Risk analysis
 
 YOUTUBE ANALYSIS
 
