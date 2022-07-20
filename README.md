@@ -5,6 +5,8 @@ I performed these analysis solving possible problems each company could go throu
 and created different visualizations making data easy and more interactive,
 Feel free to take a look and reach out if you have questions.
 
+Overview of Project 
+
 SALES DATA ANALYSIS 
 
 Data Preparation, Analyzed Monthly Sales, Analyzed Maximum Order & Hour Analysis, Analyzed Most Sold Products
