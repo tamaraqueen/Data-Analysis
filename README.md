@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 Welcome to my Data Analytics Portfolio, i am Queen, This code respository contains projects of codes i've written with Python,
 using Python i performed data cleaning, manipulation and visualization on various Datasets, cleaned up messy data, merged, joined and grouped these various dataset.
-I performed these analysis solving possible problems each company could go through,
+I performed these analysis solving possible questions each company could ask,
 and created different visualizations making data easy and more interactive,
 Feel free to take a look and reach out if you have questions.
 
